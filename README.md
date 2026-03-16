@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá 👋 Eu sou Deivison de Oliveira Nascimento
 
-<!--
-**deivisondeoliveira434-pixel/deivisondeoliveira434-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Futuro Desenvolvedor de Software  
+🎓 Futuro estudante de Análise e Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 📚 Estudando programação
+- 💻 Interessado em desenvolvimento de software
+- 📊 Interesse também na área de administração
+- 🌎 Itaituba - Pará | Brasil
+
+---
+
+## 🧠 Tecnologias que estou aprendendo
+
+- Lógica de Programação
+- GitHub
+
+---
+
+## 📂 Projetos
+
+🚧 Em construção...
+
+Em breve estarei adicionando projetos de programação aqui no meu GitHub.
+
+---
+
+## 📫 Contato
+
+📧 Email: oliveiradeivison434@gmail.com
