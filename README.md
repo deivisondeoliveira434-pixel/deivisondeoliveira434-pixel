@@ -14,10 +14,13 @@
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+## 🧠 Technologies
 
-- Lógica de Programação
-- GitHub
+- HTML5
+- CSS3
+- Java
+- Git & GitHub
+- Databases (basic)
 
 ---
 
