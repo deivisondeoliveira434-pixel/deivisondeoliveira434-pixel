@@ -41,4 +41,5 @@
 
 ## 📫 Contact
 
-📧 oliveiradeivison434@gmail.com
+📧 Email oliveiradeivison434@gmail.com
+💼 LinkedIn https://www.linkedin.com/in/deivison-de-oliveira-nascimento-a4b14b300/
