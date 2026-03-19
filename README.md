@@ -1,16 +1,17 @@
-# Olá 👋 Eu sou Deivison de Oliveira Nascimento
+# Olá 👋 Eu sou Deivison Oliveira
 
-💻 Futuro Desenvolvedor de Software  
-🎓 Futuro estudante de Análise e Desenvolvimento de Sistemas  
+💻 Software Developer in progress  
+🎓 Future student of Systems Analysis and Development  
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 📚 Estudando programação
-- 💻 Interessado em desenvolvimento de software
-- 📊 Interesse também na área de administração
-- 🌎 Itaituba - Pará | Brasil
+- 💻 Interested in software development
+- 📚 Currently learning Java
+- 🧠 Building projects to improve my skills
+- 📊 Interested in technology and administration
+- 🌎 Itaituba - Pará, Brazil
 
 ---
 
@@ -24,14 +25,20 @@
 
 ---
 
-## 📂 Projetos
+## 📂 Projects
 
-🚧 Em construção...
-
-Em breve estarei adicionando projetos de programação aqui no meu GitHub.
+🔹 Login Page (HTML & CSS)  
 
 ---
 
-## 📫 Contato
+## 📈 Goals
 
-📧 Email: oliveiradeivison434@gmail.com
+- Improve my programming skills
+- Build real-world projects
+- Become a professional developer
+
+---
+
+## 📫 Contact
+
+📧 oliveiradeivison434@gmail.com
